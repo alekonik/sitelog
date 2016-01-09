@@ -1,0 +1,479 @@
+/* reset css */
+body{
+		margin:0;
+		background:#DCDCDC;
+		}
+#wrapper{
+		margin: 0 auto;
+		padding: 18px;
+		width: 1060px;
+		height: 2350px;
+		background: #fff;
+		position: relative;
+		}
+.mark{
+		position: absolute;
+		top: -10px;
+		left: -263px;
+		}
+.mark1{
+		position: absolute;
+		top: -10px;
+		right: 0px;
+		}
+.mark2{
+		position: absolute;
+		top: 800px;
+		right: 0px;
+		}
+.mark3{
+		position: absolute;
+		top: 1800px;
+		right: 0px;
+		}
+a{
+		text-decoration: none;
+		}
+.header{
+		position: absolute;
+		width:1024px;
+		margin: 0 auto;
+		background: #fff;
+		}
+.search{
+		position: absolute;
+		top: 60px;
+		left: 600px;
+		}
+.submit{
+		background: blue;
+		color: #fff;
+		font-weight: bold;
+		}
+.tvit{
+		position: absolute;
+		top: 50px;
+		right: 5px;
+		line-height: 1px;
+		}
+.logo{
+		display: block;
+		background: url(../images/logo.jpg) no-repeat;
+		width: 200px;
+		height: 100px;
+		text-indent:-9999px;
+		}
+.logo a {
+		display: block;
+		height: 100%;
+		}
+ ul{
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		}
+.menu li{
+		float: left;
+		padding:10px 42px 10px 42px;
+		font-size: 11px;
+		font-weight: bold;
+		color: white; 
+		}
+.menu1{
+ 		background: #00aedb;
+ 		}
+ .menu2{
+ 		background: #8cc63f;
+ 		}
+.menu3{
+ 		background: #5261ac;
+ 		}
+ .menu4{
+ 		background: #00aedb;
+ 		}
+ .menu5{
+ 		background: #f78f1d;
+ 		}
+ .menu6{
+ 		background: #ff0000;
+ 		}
+ .menu7{
+ 		background: #898989;
+ 		}
+ a{
+ 		color: white
+ 		}
+ #main{
+		width:1024px;
+		margin: 0 auto;
+		background: #fff;
+		}		
+h1{
+		position: absolute;
+		top: 130px;
+		font-size: 12px;
+		color: blue;
+		}
+.pic1{
+		position: absolute;
+		top: 160px;
+		left: 0px;
+		}
+.menugalery {
+		position: absolute;
+		top: 371px;
+		}
+.menugalery li{
+		float: left;		
+		}
+.menugalery li a{
+		color: white;
+		font-size: 14px;
+		font-weight: bold;
+		}
+.menugalery ul{
+		overflow: hidden;
+		}
+.gmenu1{
+  		background: #00aedb;
+  		padding: 10px;
+		padding-right: 240px;
+		padding-left: 30px;
+  		}
+.gmenu2{
+		background: #ffa500;
+		margin-left: 10px;
+		padding: 10px;
+		padding-right: 240px;
+		padding-left: 30px;}
+.gmenu3{
+		background: #ec098d;
+		margin-left: 10px;
+		padding: 10px;
+		padding-right: 215px;
+		padding-left: 30px;
+		}
+.gmenu4{
+		position: absolute;
+		top:375px;
+		left: 1005px;
+		}
+ .gmenu5{
+		position: absolute;
+		top:375px;
+		left: -18px;
+		}
+.gtext{
+		position: absolute;
+		top: 400px;
+		}
+.gtext li{
+		float: left;
+		width:335px;
+		}
+ #content{
+ 		width: 650px;
+ 		position: relative;
+ 		top: 350px;
+ 		} 
+ .pic5{
+ 		position: relative;
+ 		top: 700px;
+ 		} 
+ .date1{
+ 		position: absolute;
+ 		top: -30px;
+ 		left: -80px; 
+ 		}
+.date2{
+		position: absolute;
+ 		top: 750px;
+ 		left: -80px;
+ 		} 
+ .comments li{
+ 		float: left;
+ 		padding-top: 10px;
+ 		}
+ .comments li a{
+ 		color: black;
+ 		}
+ .comments ul{
+ 		overflow: hidden;
+ 		}
+ .comments1{
+ 		padding-right: 30px;
+ 		}
+ .comments2{
+ 		padding-right: 345px;
+ 		}
+.posts a{
+		color: black;
+		}
+.posts{
+		position: relative;
+		top: 30px
+		}
+ #sidebar{
+ 		width: 374px;
+ 		position: absolute;
+ 		top: 490px;
+ 		left: 650px;
+ 		}
+ .side li{
+ 		float: left;
+ 		} 
+ .side li a{
+ 		color: #fff;
+ 		font-weight: bold;
+ 		padding: 10px 25px 25px 10px;
+ 		} 
+ .side1{
+ 		background: #f00;
+ 		padding: 5px 5px;
+ 		}
+ .side2{
+ 		background: #ffa500;
+ 		padding: 5px 5px;
+ 		 } 
+ .side3{
+ 		background: #0ff;
+ 		padding: 5px;
+ 		}
+.side ul{
+		overflow: hidden;
+		}
+ .stor1 img{
+ 		position: absolute;
+ 		top: 90px;
+ 		right: 290px;
+ 		}
+ .stor11{
+ 		width: 300px;
+ 		position: absolute;
+ 		top: 80px;
+ 		left: 100px;
+ 		}
+ .stor111{
+ 		color: blue;
+ 		font-weight: bold;
+ 		margin: 5px;
+ 		}
+ .stor112{
+ 		margin: 0;
+ 		}
+.stor2 img{
+ 		position: absolute;
+ 		top: 210px;
+ 		right: 290px;
+ 		}
+ .stor21{
+ 		width: 300px;
+ 		position: absolute;
+ 		top: 200px;
+ 		left: 100px;
+ 		}
+ .stor211{
+ 		color: blue;
+ 		font-weight: bold;
+ 		margin: 5px;
+ 		}
+ .stor212{
+ 		margin: 0;
+ 		}
+.stor3 img{
+ 		position: absolute;
+ 		top: 330px;
+ 		right: 290px;
+ 		}
+.stor31{
+ 		width: 300px;
+ 		position: absolute;
+ 		top: 320px;
+ 		left: 100px;
+ 		}
+.stor311{
+ 		color: blue;
+ 		font-weight: bold;
+ 		margin: 5px;
+ 		}
+.stor312{
+ 		margin: 0;
+ 		}	
+.like p{
+ 		background: #5261ac;
+ 		position: relative;
+ 		top: 360px;
+ 		padding: 10px 25px 10px 10px;
+ 		color: #fff;
+ 		font-weight: bold;
+ 		}
+.stor4 img{
+ 		position: absolute;
+ 		top: 500px;
+ 		right: 295px;
+ 		}
+.stor41{
+ 		width: 260px;
+ 		position: absolute;
+ 		top: 490px;
+ 		left: 100px;
+ 		}		
+.stor41 a{
+ 		color: blue;
+ 		font-weight: bold;
+ 		}
+.stor5 img{
+ 		position: absolute;
+ 		top: 600px;
+ 		right: 295px;
+ 		}
+.stor51{
+ 		width: 260px;
+ 		position: absolute;
+ 		top: 590px;
+ 		left: 100px;
+ 		}		
+.stor51 a{
+ 		color: blue;
+ 		font-weight: bold;
+ 		}
+.stor6 img{
+ 		position: absolute;
+ 		top: 700px;
+ 		right: 295px;
+ 		}
+.stor61{
+ 		width: 260px;
+ 		position: absolute;
+ 		top: 690px;
+ 		left: 100px;
+ 		}		
+.stor61 a{
+ 		color: blue;
+ 		font-weight: bold;
+ 		}
+.stor7 img{
+ 		position: absolute;
+ 		top: 800px;
+ 		right: 295px;
+ 		}
+.stor71{
+ 		width: 260px;
+ 		position: absolute;
+ 		top: 790px;
+ 		left: 100px;
+ 		}		
+.stor71 a{
+ 		color: blue;
+ 		font-weight: bold;
+ 		}
+.archives p{
+ 		background: #5261ac;
+ 		position: relative;
+ 		top: 750px;
+ 		padding: 10px 25px 10px 10px;
+ 		color: #fff;
+ 		font-weight: bold;
+ 		}
+.list {
+ 		position: relative;
+ 		top: 750px;
+ 		}
+.list1{
+		position: relative;
+		top: 400px;
+		left: 15px;
+		}
+.list2{
+		position: relative;
+		top: 395px;
+		left: 15px;
+		}
+.list3{
+		position: relative;
+		top: 390px;
+		left: 15px;
+		}
+.list4{
+		position: relative;
+		top: 385px;
+		left: 15px;
+		}
+.list5{
+		position: relative;
+		top: 380px;
+		left: 15px;
+		}
+.list6{
+		position: relative;
+		top: 375px;
+		left: 15px;
+		}
+.list7{
+		position: relative;
+		top: 370px;
+		left: 15px;
+		}
+.tag p{
+ 		background: #5261ac;
+ 		position: relative;
+ 		top: 380px;
+ 		padding: 10px 25px 10px 10px;
+ 		color: #fff;
+ 		font-weight: bold;
+ 		}
+.tages{
+		position: relative;
+		top: 380px;
+		}
+.tages li{
+		float: left;
+		padding: 3px 5px;
+		}
+.tages a{
+		color: #5261ac;
+		}
+.tages a: nth-child(2){
+		color:#ffa500;
+		}
+.ang {
+		font-weight: bold;
+		}
+.cssaut{
+		font-size: 25px;
+		}
+.aris{
+		font-size: 10px;
+		font-weight: bold;
+		}
+.pitt{
+		font-size: 12px;
+		}
+.diaz{
+		font-size: 20px;
+		}
+.radcl{
+		font-size: 20px;
+		font-weight: bold;
+		}
+.beck{
+		font-size: 10px;
+		}
+.emma{
+		font-size: 14px;
+		}
+.eva{
+		font-size: 18px;
+		font-weight: bold;
+		}
+.palt{
+		font-size: 14px;
+		font-weight: bold;
+		}
+.depp{
+		font-size: 8px;
+		}
+.tages ul{
+		overflow: hidden;
+		}
+		
